@@ -1,1 +1,3 @@
-# 26031013_kimchangseop_GameCraft-
+# 기말과제
+- 성명: 김창섭
+- 게임이름: deep dive
